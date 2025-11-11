@@ -24,6 +24,10 @@ body {
     max-width: 1200px;
     margin: auto;
 }
+.navbar-brand {
+    font-family: 'Playfair Display', serif;
+    height: 3px;
+}
 #container .celda1 {
     background-color: #006d7b;
     padding: 20px;
